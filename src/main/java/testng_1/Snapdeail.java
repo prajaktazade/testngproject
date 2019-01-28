@@ -11,7 +11,7 @@ public class Snapdeail {
 	public WebDriver driver;
 	//String username="zade.prajakta08@gmail.com";
 	//String password="zade";
-	// New Commet 
+	// New Commet  
   @BeforeTest
   public void init() {
 	  System.setProperty("webdriver.chrome.driver", "chromedriver.exe");
